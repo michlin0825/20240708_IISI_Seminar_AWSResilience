@@ -1,1 +1,1 @@
-# 20240708_IISI_Seminar_AWSResilience
+# 20240708_IISI_Seminar_ResilienceAtAWS
